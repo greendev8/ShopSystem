@@ -10,7 +10,7 @@ A shop system I made for fun :D
  - Uses a coins currency system and a fruits item system with specific values
  - Works with leaderstats
 
-# Dependecies
+# Dependencies
 
  - The open/close system works with a proximity prompt inside of an npc
  - The highlighting works with a market stand model my friend made (it has fruits in it that the scripts reference to apply a highlight to them)
